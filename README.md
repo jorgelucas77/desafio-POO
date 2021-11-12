@@ -25,3 +25,4 @@ Desafio criado através dos cursos online DIGITAL INNOVATION ONE .
 ✅ Git
 ✅ Conta no GitHub
 
+:woman_teacher: Formadora: [Camila Cavalcante](https://www.linkedin.com/in/cami-la)
